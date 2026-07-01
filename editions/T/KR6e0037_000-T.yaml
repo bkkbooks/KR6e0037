@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0037/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 顯無邊佛土功德經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0289.xml
+    old_id: T10n0289
+hash: sha256:78ba38383e6eff889b6cd4ee8603fcf6ebd9732bbd274bb89dfaffa55b3c123e
