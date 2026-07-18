@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6e0037_000-T.yaml, hash: 'sha256:78ba38383e6eff889b6cd4ee8603fcf6ebd9732bbd274bb89dfaffa55b3c123e'}
   - {seq: 1, filename: KR6e0037_001-T.yaml, hash: 'sha256:b1192fe8a49a6a283446a150801064b4228ce31a51fc3cc8ae61dd89d1a1090c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0037_000-T.markers.yaml, hash: 'sha256:1fb3f70940555c78cf325dc26f81616179adb0fcb2e6b6270aaf86534850c272'}
+  - {seq: 0, role: markers, filename: assets/KR6e0037_000-T.markers.yaml, hash: 'sha256:2db478840389f20628ed95f0e10fbcf8d2200b3810d0127916b0ab40845f11dc'}
   - {seq: 1, role: markers, filename: assets/KR6e0037_001-T.markers.yaml, hash: 'sha256:30653d77e8448341d28f88934ff69785215912ae2f7c0086d643cbe470e97c5a'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 顯無邊佛土功德經
   type: juan
   level: 1
-hash: sha256:90d9a08faf4d1ff63709f7d7b4264648949969a2a1011be72e22a008bf7b149e
+hash: sha256:473dfdac2e8886f5c91aa60336a38c74a774fda56e1ed789c68d929ded4b42e0
